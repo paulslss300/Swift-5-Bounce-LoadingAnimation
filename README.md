@@ -3,6 +3,8 @@
 Creates a customizeable loading view with a bouncing image animation.
 
 ## How to use it
+Copy and paste the `animationView` struct to your project
+
 1. Put:
  `var loadingAnimation = animationView()`
  in ViewController class
